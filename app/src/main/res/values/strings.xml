@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SecondAPP</string>
+    <string name="title_act_second">第二個活動</string>
 </resources>
